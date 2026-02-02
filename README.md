@@ -70,12 +70,12 @@ My interests focus on the intersection between technology and management, especi
 ## 🌐 Connect With Me
 <div align="center">
 
-<a href="https://github.com/USERNAME">
+<a href="https://github.com/USERNAME](https://github.com/LayanQadah/LayanQadah.git">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
 </a>
 
 
-<a href="https://twitter.com/YOUR-LINK](https://x.com/layan6_6?s=21">
+<a href="https://twitter.com/https://x.com/layan6_6?s=21">
   <img src="https://img.shields.io/badge/Twitter/X-000000?style=for-the-badge&logo=x" />
 </a>
 
